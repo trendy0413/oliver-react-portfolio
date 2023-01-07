@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaGithub, FaTelegram, FaDiscord, FaSkype, FaGoogle, FaLinkedinIn, FaFilePdf } from 'react-icons/fa';
-import { SiHashnode } from 'react-icons/si'
+// import { SiHashnode } from 'react-icons/si'
 
 const HeaderSocials = () => {
     return (
