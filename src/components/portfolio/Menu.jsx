@@ -1,6 +1,8 @@
 import Work1 from "../../assets/work-1.png";
 import Work2 from "../../assets/work-2.png";
-import Work3 from "../../assets/work-3.jpg";
+import Work3 from "../../assets/work-3.png";
+import Work4 from "../../assets/work-4.png";
+import Work5 from "../../assets/work-5.png";
 
 const Menu = [
     {
@@ -28,6 +30,22 @@ const Menu = [
         category: ["Frontend"],
         url: "https://dlopsai.netlify.app",
         repositoryUrl: "https://github.com/trendy0413/dlop_ai_landing"
+    },
+    {
+        id: 4,
+        image: Work4,
+        title: "Yogaia",
+        category: ["Frontend"],
+        url: "https://yogaia.com",
+        repositoryUrl: ""
+    },
+    {
+        id: 5,
+        image: Work5,
+        title: "Uptok",
+        category: ["Frontend"],
+        url: "https://uptok.com",
+        repositoryUrl: ""
     }
 ];
 
