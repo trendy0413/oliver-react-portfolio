@@ -21,9 +21,9 @@ const HeaderSocials = () => {
                 <FaSkype />
             </a>
 
-            <a href='https://t.me/oliver_he' className='home__social-link' target='_blank' rel='noreferrer'>
+            {/* <a href='https://t.me/oliver_he' className='home__social-link' target='_blank' rel='noreferrer'>
                 <FaTelegram />
-            </a>
+            </a> */}
 
             <a href='https://discord.gg/jFJT45Wd' className='home__social-link' target='_blank' rel='noreferrer'>
                 <FaDiscord />

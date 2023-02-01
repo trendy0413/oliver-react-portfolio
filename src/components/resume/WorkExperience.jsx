@@ -1,14 +1,24 @@
 const WorkExperience = [
     {
+        id: 0,
+        title: "Full-Stack Engineer",
+        company: "OneGreenDiary",
+        yearsActive: "August 2022 - Present",
+        information: [
+            "Restructured Point-of-Sale (POS) system to improve its existing features and data management.",
+            "Implemented Firebase Cloud Messaging within Angular and Electron applications.",
+            "Allowed users to use POS functionalities for extended periods of time, even when offline, by handling better offline capabilities.",
+        ],
+    },
+    {
         id: 1,
         title: "Full-Stack Engineer",
         company: "Outverse",
-        yearsActive: "April 2021 - Present",
+        yearsActive: "April 2021 - May 2022",
         information: [
-            "Building Outverse for the next generation of online communities.",
-            "Collaborating with team of developers to develop and implement efficient, flexible and resuable user interface components.",
-            "Keeping track of current knowledge of relevant technology developments and standards.",
-            "Finished Beta version on July 2022"
+            "Managed role assignments to ensure appropriate user access to specific channels and privileges.",
+            "Collaborated with team of developers to develop and implement efficient, flexible and reusable user interface components.",
+            "Worked with backend engineers to optimize existing API calls to create efficiencies by deprecating unneeded API calls.",
         ],
     },
     {
@@ -31,6 +41,7 @@ const WorkExperience = [
         yearsActive: "April 2013 - September 2017",
         information: [
             "Finished my Bachelor's Degree in computer science",
+            "Got prize in ACM which is the part of International Collegiate Programming Contest"
         ],
     },
 ];
